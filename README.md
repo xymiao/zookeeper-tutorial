@@ -1,2 +1,2 @@
 # zookeeper-tutorial
-ZooKeeper
+Apache ZooKeeper 3.6.3
